@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hazenexus/.github/main/assets/banner.png" alt="Haze Nexus Banner" width="100%" max-width="800px" style="border-radius: 6px;" />
+  <img src="https://raw.githubusercontent.com/Haze-Nexus/haze-nexus/main/assets/banner.png" alt="Haze Nexus Banner" width="100%" max-width="800px" style="border-radius: 6px;" />
 </p>
 
 <h1 align="center">Haze Nexus</h1>
@@ -10,14 +10,15 @@
 
 <p align="center">
   <a href="https://hazenexus.com"><img src="https://img.shields.io/badge/Website-hazenexus.com-000000?style=flat-square&labelColor=553C9A" alt="Website"></a>
-  <a href="mailto:engineering@hazenexus.com"><img src="https://img.shields.io/badge/Contact-engineering-000000?style=flat-square&labelColor=D53F8C" alt="Contact"></a>
+  <a href="mailto:suporte.haze.nexus@gmail.com"><img src="https://img.shields.io/badge/Email-suporte.haze.nexus-000000?style=flat-square&labelColor=D53F8C" alt="E-mail"></a>
+  <a href="https://instagram.com/haze.nexus"><img src="https://img.shields.io/badge/Instagram-@haze.nexus-000000?style=flat-square&labelColor=7928CA" alt="Instagram"></a>
 </p>
 
 ---
 
 ### About
 
-A Haze Nexus é uma empresa de engenharia de software especializada no desenvolvimento de soluções digitais sob medida, modernas e de alta performance. Atuamos de forma estratégica para transformar ideias complexas, requisitos técnicos e desafios de negócios em sistemas funcionais, seguros e arquitetados para suportar alta escala.
+A Haze Nexus é uma empresa de engenharia de software especializada no desenvolvimento de soluções digitais sob medida, modernas e de alta performance. Atuamos de forma estratégica para transformar ideias complexas, requisitos técnicos e desafios de negócios in sistemas funcionais, seguros e arquitetados para suportar alta escala.
 
 Nosso foco está em projetar infraestruturas robustas e interfaces eficientes, aplicando rigor técnico e as melhores práticas da indústria de software em cada linha de código.
 
@@ -39,7 +40,7 @@ Desenvolvemos soluções modulares e integradas que otimizam processos e escalam
 * **Arquitetura de APIs:** Design e implementação de APIs RESTful e GraphQL robustas, seguras, de baixa latência e documentadas sob o padrão OpenAPI.
 * **Desenvolvimento Backend:** Sistemas corporativos focados em processamento de dados eficiente, concorrência e resiliência de microsserviços.
 * **Integração de Sistemas:** Conexão nativa e segura entre plataformas legadas, serviços de terceiros (CRMs, Gateways de Pagamento, ERPs) e novas tecnologias.
-* **Plataformas Personalizadas:** Soluções de software sob medida para fluxos de trabalho específicos de empresas, startups e grandes empreendedores.
+* **Plataformas Personalizadas:** Soluções de software sob medida para fluxo de trabalho específicos de empresas, startups e grandes empreendedores.
 * **Sistemas Escaláveis:** Planejamento e execução de infraestruturas em nuvem preparadas para crescimento volumétrico de requisições e armazenamento de dados.
 
 ---
