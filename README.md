@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hazenexus.com"><img src="https://img.shields.io/badge/Website-hazenexus.com-000000?style=flat-square&labelColor=553C9A" alt="Website"></a>
+  <a href="https://hazenexus.com"><img src="https://img.shields.io/badge/Website-development...-000000?style=flat-square&labelColor=553C9A" alt="Website"></a>
   <a href="mailto:suporte.haze.nexus@gmail.com"><img src="https://img.shields.io/badge/Email-suporte.haze.nexus-000000?style=flat-square&labelColor=D53F8C" alt="E-mail"></a>
   <a href="https://instagram.com/haze.nexus"><img src="https://img.shields.io/badge/Instagram-@haze.nexus-000000?style=flat-square&labelColor=7928CA" alt="Instagram"></a>
 </p>
